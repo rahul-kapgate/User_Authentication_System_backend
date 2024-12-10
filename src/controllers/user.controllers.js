@@ -23,9 +23,6 @@ const generateAccessToekens = async (userId) => {
       500,
       "Something went wrong while generating access token"
     );
-
-   
-
   }
 }
 
