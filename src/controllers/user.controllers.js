@@ -17,7 +17,7 @@ const generateAccessToekens = async (userId) => {
 
   } catch (error) {
     
-     console.log(error);
+    //  console.log(error);
 
     throw new ApiError(
       500,
